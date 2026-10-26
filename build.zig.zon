@@ -1,0 +1,14 @@
+.{
+    .name = .tefect,
+    .version = "0.0.1",
+    .fingerprint = 0x394a3a1c84c05487,
+    .minimum_zig_version = "0.15.2",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+		"README.md",
+        "LICENSE"
+    },
+}
